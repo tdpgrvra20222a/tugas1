@@ -1,8 +1,8 @@
 # tugas1
 - Ruang gim
-   - airsoft gun
+  - airsoft gun
     - dilakukan didalam area tertentu (indor maupun outdor)
-   - counter strike
+  - counter strike
     - virtual
 - batasan 
   - airsof gun
