@@ -9,12 +9,12 @@
     -sesuai pada aturan yang telah ditetapkan pada lokasi permainan
    -counter strike
     -sesuai pada game mode yang dimainkan
--aturan
-  -airsoft gun
-    -jika peluru mengenai pemain tanpa pantulan atau pemain diberi isyarat oleh musuh dari jarak dekat dianggap HIT atau Tereliminasi
-  -counter strike
-    -pemain tetap dapat bermain atau tidak dianggap tereliminasi jika bar HP nya masin diatas 0
--artefak
+- aturan
+  - airsoft gun
+    - jika peluru mengenai pemain tanpa pantulan atau pemain diberi isyarat oleh musuh dari jarak dekat dianggap HIT atau Tereliminasi
+  - counter strike
+    - pemain tetap dapat bermain atau tidak dianggap tereliminasi jika bar HP nya masin diatas 0
+- artefak
   -airsoft gun
     -Field Marshal
   -counter strike
